@@ -1,0 +1,1 @@
+$(document).ready(function(){$("img").hide(),$(".title").click(function(){$(".container").addClass("open")}),$(".close").click(function(){$("h2").hide(),$("img").show()})});
