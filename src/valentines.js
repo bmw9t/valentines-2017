@@ -33,6 +33,6 @@ $(document).ready(function(){
   $('.close').click(function(){
     // $('.container').removeClass('open');
     $('h2').hide();
-    $('img').show()
+    $('img').show();
   });
 });
